@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[正在上映的电影]]></title>
+        <link>https://movie.douban.com/cinema/nowplaying/</link>
+        <atom:link href="https://rss.owenyoung.com/douban/movie/playing.xml" rel="self" type="application/rss+xml" />
+        <description><![CDATA[正在上映的电影 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Thu, 23 Jul 2020 19:05:31 GMT</lastBuildDate>
+        <ttl>50</ttl>
+        
+        <item>
+            <title><![CDATA[第一次的离别]]></title>
+            <description><![CDATA[标题：第一次的离别评分：7.2片长：90分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/30337172</guid>
+            <link>https://movie.douban.com/subject/30337172</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[璀璨薪火3D]]></title>
+            <description><![CDATA[标题：璀璨薪火3D评分：0片长：76分钟制片国家/...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/27591270</guid>
+            <link>https://movie.douban.com/subject/27591270</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[多力特的奇幻冒险]]></title>
+            <description><![CDATA[标题：多力特的奇幻冒险评分：5.6片长：101分钟...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/27000981</guid>
+            <link>https://movie.douban.com/subject/27000981</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[喋血战士]]></title>
+            <description><![CDATA[标题：喋血战士评分：5.5片长：109分钟制片国家...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/4830483</guid>
+            <link>https://movie.douban.com/subject/4830483</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[寻梦环游记]]></title>
+            <description><![CDATA[标题：寻梦环游记评分：9.1片长：105分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/20495023</guid>
+            <link>https://movie.douban.com/subject/20495023</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[风声]]></title>
+            <description><![CDATA[标题：风声评分：8.2片长：118分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/3734112</guid>
+            <link>https://movie.douban.com/subject/3734112</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[当幸福来敲门]]></title>
+            <description><![CDATA[标题：当幸福来敲门评分：9.1片长：117分钟制片...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/1849031</guid>
+            <link>https://movie.douban.com/subject/1849031</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[何以为家]]></title>
+            <description><![CDATA[标题：何以为家评分：9.1片长：117分钟(中国大...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/30170448</guid>
+            <link>https://movie.douban.com/subject/30170448</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[夏洛特烦恼]]></title>
+            <description><![CDATA[标题：夏洛特烦恼评分：7.7片长：104分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/25964071</guid>
+            <link>https://movie.douban.com/subject/25964071</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[疯狂动物城]]></title>
+            <description><![CDATA[标题：疯狂动物城评分：9.2片长：109分钟(中国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/25662329</guid>
+            <link>https://movie.douban.com/subject/25662329</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[战狼2]]></title>
+            <description><![CDATA[标题：战狼2评分：7.1片长：123分钟制片国家/...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/26363254</guid>
+            <link>https://movie.douban.com/subject/26363254</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[大鱼海棠]]></title>
+            <description><![CDATA[标题：大鱼海棠评分：6.9片长：105分钟制片国家...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/5045678</guid>
+            <link>https://movie.douban.com/subject/5045678</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[美人鱼]]></title>
+            <description><![CDATA[标题：美人鱼评分：6.7片长：93分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/19944106</guid>
+            <link>https://movie.douban.com/subject/19944106</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[超能陆战队]]></title>
+            <description><![CDATA[标题：超能陆战队评分：8.7片长：102分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/11026735</guid>
+            <link>https://movie.douban.com/subject/11026735</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[中国合伙人]]></title>
+            <description><![CDATA[标题：中国合伙人评分：7.6片长：112分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/11529526</guid>
+            <link>https://movie.douban.com/subject/11529526</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[超时空同居]]></title>
+            <description><![CDATA[标题：超时空同居评分：6.8片长：101分钟制片国...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/27133303</guid>
+            <link>https://movie.douban.com/subject/27133303</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一条狗的使命]]></title>
+            <description><![CDATA[标题：一条狗的使命评分：7.7片长：101分钟制片...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/6873143</guid>
+            <link>https://movie.douban.com/subject/6873143</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[捉妖记]]></title>
+            <description><![CDATA[标题：捉妖记评分：6.7片长：118分钟制片国家/...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/25723907</guid>
+            <link>https://movie.douban.com/subject/25723907</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[五禽戏]]></title>
+            <description><![CDATA[标题：五禽戏评分：0片长：88分钟制片国家/地区：...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/35153099</guid>
+            <link>https://movie.douban.com/subject/35153099</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[抵达之谜]]></title>
+            <description><![CDATA[标题：抵达之谜评分：0片长：114分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/26871465</guid>
+            <link>https://movie.douban.com/subject/26871465</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[妙先生]]></title>
+            <description><![CDATA[标题：妙先生评分：0片长：89分钟制片国家/地区：...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/34888476</guid>
+            <link>https://movie.douban.com/subject/34888476</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[刺猬索尼克]]></title>
+            <description><![CDATA[标题：刺猬索尼克评分：0片长：99分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/25905044</guid>
+            <link>https://movie.douban.com/subject/25905044</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[白云之下]]></title>
+            <description><![CDATA[标题：白云之下评分：0片长：110分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/34842217</guid>
+            <link>https://movie.douban.com/subject/34842217</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[呆瓜兄弟]]></title>
+            <description><![CDATA[标题：呆瓜兄弟评分：0片长：75分钟制片国家/地区...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/34990162</guid>
+            <link>https://movie.douban.com/subject/34990162</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[1917]]></title>
+            <description><![CDATA[标题：1917评分：0片长：119分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/30252495</guid>
+            <link>https://movie.douban.com/subject/30252495</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我想静静]]></title>
+            <description><![CDATA[标题：我想静静评分：0片长：100分钟制片国家/地...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/26667275</guid>
+            <link>https://movie.douban.com/subject/26667275</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[哈利·波特与魔法石]]></title>
+            <description><![CDATA[标题：哈利·波特与魔法石评分：0片长：152分钟制...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/1295038</guid>
+            <link>https://movie.douban.com/subject/1295038</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[通往春天的列车]]></title>
+            <description><![CDATA[标题：通往春天的列车评分：0片长：99分钟制片国家...]]></description>
+            
+            <guid isPermaLink="false">https://movie.douban.com/subject/27624665</guid>
+            <link>https://movie.douban.com/subject/27624665</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>

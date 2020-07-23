@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[豆瓣一周口碑电影榜]]></title>
+        <link>https://movie.douban.com/chart</link>
+        <atom:link href="https://rss.owenyoung.com/douban/movie/weekly.xml" rel="self" type="application/rss+xml" />
+        <description><![CDATA[每周五更新 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Thu, 23 Jul 2020 19:05:34 GMT</lastBuildDate>
+        <ttl>50</ttl>
+        
+        <item>
+            <title><![CDATA[汉密尔顿]]></title>
+            <description><![CDATA[标题：汉密尔顿  影片信息：美国 / 历史 歌舞 ...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/34961898</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/34961898</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[你已不在那里：京都动画纵火事件]]></title>
+            <description><![CDATA[标题：你已不在那里：京都动画纵火事件  影片信息：...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/35139396</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/35139396</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[灰猎犬号]]></title>
+            <description><![CDATA[标题：灰猎犬号  影片信息：美国 / 剧情 战争 ...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/26871906</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/26871906</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[第一头牛]]></title>
+            <description><![CDATA[标题：第一头牛  影片信息：美国 / 剧情 / 凯...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/30368608</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/30368608</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[叔·叔]]></title>
+            <description><![CDATA[标题：叔·叔  影片信息：中国香港 / 剧情 同性...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/33428622</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/33428622</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[希望沟壑]]></title>
+            <description><![CDATA[标题：希望沟壑  影片信息：英国 / 剧情 爱情 ...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/27186368</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/27186368</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我们俩]]></title>
+            <description><![CDATA[标题：我们俩  影片信息：法国 卢森堡 比利时 /...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/34835822</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/34835822</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[咱们裸熊：电影版]]></title>
+            <description><![CDATA[标题：咱们裸熊：电影版  影片信息：美国 / 喜剧...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/34822138</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/34822138</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[不可抗拒]]></title>
+            <description><![CDATA[标题：不可抗拒  影片信息：美国 / 剧情 喜剧 ...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/30482204</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/30482204</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我们的母亲]]></title>
+            <description><![CDATA[标题：我们的母亲  影片信息：危地马拉 比利时 法...]]></description>
+            
+            <guid isPermaLink="false">https://www.douban.com/doubanapp/dispatch/movie/33422943</guid>
+            <link>https://www.douban.com/doubanapp/dispatch/movie/33422943</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
